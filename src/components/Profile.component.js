@@ -82,7 +82,7 @@ class Profile extends Component {
               </tr>
             </tbody>
           </table>
-          <button type="submit"  onClick={this.onSubmit} >Update</button>
+          <button type="submit" onClick={this.onSubmit} >Update</button>
         </div>
       </div>
     )
